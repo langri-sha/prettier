@@ -1,8 +1,16 @@
 # Change Log - @langri-sha/prettier
 
-<!-- This log was last generated on Wed, 30 Sep 2026 11:26:36 GMT and should not be manually modified. -->
+<!-- This log was last generated on Thu, 01 Oct 2026 15:51:58 GMT and should not be manually modified. -->
 
 <!-- Start content -->
+
+## 0.4.9
+
+Thu, 01 Oct 2026 15:51:58 GMT
+
+### Patches
+
+- Publish from langri-sha/prettier, which now owns this package and its history (filip.dupanovic@gmail.com)
 
 ## 0.4.8
 

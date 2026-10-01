@@ -1,6 +1,6 @@
 {
   "name": "@langri-sha/prettier",
-  "version": "0.4.8",
+  "version": "0.4.9",
   "description": "Opinionated Prettier config for easy to read and maintainable code",
   "keywords": [
     "prettier",
