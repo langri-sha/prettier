@@ -2,6 +2,45 @@
   "name": "@langri-sha/prettier",
   "entries": [
     {
+      "date": "Fri, 02 Oct 2026 20:05:32 GMT",
+      "version": "0.4.10",
+      "tag": "@langri-sha/prettier_v0.4.10",
+      "comments": {
+        "patch": [
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/prettier",
+            "commit": "a674b20a1f1e0cbd1a1b897f47302fc565647498",
+            "comment": "chore(deps): update dependency @langri-sha/tsconfig to v1.1.0"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/prettier",
+            "commit": "a674b20a1f1e0cbd1a1b897f47302fc565647498",
+            "comment": "chore(deps): update dependency @langri-sha/tsconfig to v1.0.2"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/prettier",
+            "commit": "a674b20a1f1e0cbd1a1b897f47302fc565647498",
+            "comment": "fix(deps): update dependency pnpm to v12.8.1"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/prettier",
+            "commit": "a674b20a1f1e0cbd1a1b897f47302fc565647498",
+            "comment": "fix(deps): update dependency pnpm to v12.8.0"
+          },
+          {
+            "author": "email not defined",
+            "package": "@langri-sha/prettier",
+            "commit": "a674b20a1f1e0cbd1a1b897f47302fc565647498",
+            "comment": "chore(deps): update langri-sha projen toolchain"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 01 Oct 2026 15:51:58 GMT",
       "version": "0.4.9",
       "tag": "@langri-sha/prettier_v0.4.9",
