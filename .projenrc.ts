@@ -28,7 +28,7 @@ const project = new Project({
       '@langri-sha/eslint-config@0.9.17',
       '@langri-sha/lint-staged@0.9.8',
       '@langri-sha/projen-project@*',
-      '@langri-sha/tsconfig@1.0.2',
+      '@langri-sha/tsconfig@1.1.0',
       '@types/node@24.19.0',
       'prettier@3.9.9',
     ],
