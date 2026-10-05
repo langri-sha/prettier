@@ -29,7 +29,7 @@ const project = new Project({
       '@langri-sha/lint-staged@0.9.9',
       '@langri-sha/projen-project@*',
       '@langri-sha/tsconfig@1.1.0',
-      '@types/node@24.19.0',
+      '@types/node@24.19.1',
       'prettier@3.9.9',
     ],
     peerDeps: ['prettier@^3.0.0'],
