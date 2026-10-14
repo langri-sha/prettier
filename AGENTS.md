@@ -18,7 +18,7 @@ are managed by `langri-sha/github-repos`.
 
 ```sh
 pnpm install
-pnpm projen                             # re-synthesize from .projenrc.ts
+pnpm exec projen                        # re-synthesize from .projenrc.ts
 pnpm tsc --build .                      # typecheck
 pnpm eslint . && pnpm prettier --check .
 pnpm change                             # write a change file
