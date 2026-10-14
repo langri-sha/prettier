@@ -19,5 +19,11 @@ Add your configuration to `prettier.config.mjs`:
 export { default } from '@langri-sha/prettier'
 ```
 
+## Contributing
+
+See [CONTRIBUTING.md] in `langri-sha/github`.
+
+[contributing.md]:
+  https://github.com/langri-sha/github/blob/main/CONTRIBUTING.md
 [editorconfig]: https://editorconfig.org/
 [prettier]: https://prettier.io/docs/en/
