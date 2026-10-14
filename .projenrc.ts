@@ -25,7 +25,7 @@ const project = new Project({
 
     deps: ['prettier-plugin-ini@1.3.0'],
     devDeps: [
-      '@langri-sha/eslint-config@0.9.19',
+      '@langri-sha/eslint-config@0.10.0',
       '@langri-sha/lint-staged@0.9.11',
       '@langri-sha/projen-project@*',
       '@langri-sha/tsconfig@1.1.1',
