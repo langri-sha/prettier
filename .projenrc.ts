@@ -70,6 +70,7 @@ const project = new Project({
   dagger: {},
   editorConfig: {},
   eslint: {},
+  githubTemplates: {},
   husky: {
     'pre-commit': 'lint-staged',
   },
