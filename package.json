@@ -55,7 +55,7 @@
   "peerDependencies": {
     "prettier": "^3.0.0"
   },
-  "packageManager": "pnpm@12.17.0",
+  "packageManager": "pnpm@12.18.0",
   "devEngines": {
     "runtime": {
       "name": "node",
