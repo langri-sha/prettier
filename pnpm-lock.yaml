@@ -181,13 +181,13 @@ importers:
     devDependencies:
       '@langri-sha/eslint-config':
         specifier: 0.13.0
-        version: 0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.0)(typescript@6.0.3)
+        version: 0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.1)(typescript@6.0.3)
       '@langri-sha/lint-staged':
         specifier: 0.9.11
-        version: 0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.0)
+        version: 0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.1)
       '@langri-sha/projen-project':
         specifier: 0.54.0
-        version: 0.54.0(@babel/core@7.29.7)(@langri-sha/eslint-config@0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.0)(typescript@6.0.3))(@langri-sha/lint-staged@0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.0))(beachball@2.66.0(typescript@6.0.3))(constructs@10.8.1)(eslint@10.14.0)(husky@9.1.7)(lint-staged@17.6.0)(prettier@3.10.0)(projen@0.104.1(constructs@10.8.1))(skills@1.7.6)(tsx@4.23.15)(typescript@6.0.3)
+        version: 0.54.0(@babel/core@7.29.7)(@langri-sha/eslint-config@0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.1)(typescript@6.0.3))(@langri-sha/lint-staged@0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.1))(beachball@2.66.0(typescript@6.0.3))(constructs@10.8.1)(eslint@10.14.0)(husky@9.1.7)(lint-staged@17.6.0)(prettier@3.10.1)(projen@0.104.1(constructs@10.8.1))(skills@1.7.6)(tsx@4.23.15)(typescript@6.0.3)
       '@langri-sha/tsconfig':
         specifier: 3.0.0
         version: 3.0.0(typescript@6.0.3)
@@ -207,8 +207,8 @@ importers:
         specifier: 17.6.0
         version: 17.6.0
       prettier:
-        specifier: 3.10.0
-        version: 3.10.0
+        specifier: 3.10.1
+        version: 3.10.1
       projen:
         specifier: 0.104.1
         version: 0.104.1(constructs@10.8.1)
@@ -1962,8 +1962,8 @@ packages:
   prettier-plugin-ini@1.3.0:
     resolution: {integrity: sha512-kX1KnPwITCTtYV0MTBZQKuFLxcNcbHOS9r7Ta1jHLLvRvZRTzHHqX0MEZMrCkedjLuxpQSgzr4aC5IRd+R3FPw==}
 
-  prettier@3.10.0:
-    resolution: {integrity: sha512-mBi4765LgjO1PFjlEs7pUeK0nb1bw71c+N4/ItfeUWNdY5cV2pRKaFpbbFRYmDJMO+5ZwzGxHRqHxFZna7iv5w==}
+  prettier@3.10.1:
+    resolution: {integrity: sha512-70vp3ZUYoPlFbF9uiTdXHUUCGEIp7d4+6p+8DYbkm2jP7x/3i/paXVF6dopSI3zd/CEitrZN1rc4i85xWmmXlg==}
     engines: {node: '>=14'}
     hasBin: true
 
@@ -2820,7 +2820,7 @@ snapshots:
 
   '@keyv/serialize@1.1.1': {}
 
-  '@langri-sha/eslint-config@0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.0)(typescript@6.0.3)':
+  '@langri-sha/eslint-config@0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.1)(typescript@6.0.3)':
     dependencies:
       '@eslint/compat': 2.1.1(eslint@10.14.0)
       '@eslint/js': 10.0.1(eslint@10.14.0)
@@ -2828,7 +2828,7 @@ snapshots:
       eslint-config-prettier: 10.1.8(eslint@10.14.0)
       eslint-plugin-import-x: 4.17.1(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)
       eslint-plugin-jsdoc: 65.4.2(eslint@10.14.0)(typescript@6.0.3)
-      eslint-plugin-prettier: 5.5.7(eslint-config-prettier@10.1.8(eslint@10.14.0))(eslint@10.14.0)(prettier@3.10.0)
+      eslint-plugin-prettier: 5.5.7(eslint-config-prettier@10.1.8(eslint@10.14.0))(eslint@10.14.0)(prettier@3.10.1)
       eslint-plugin-react: 7.37.5(eslint@10.14.0)
       eslint-plugin-react-hooks: 7.1.1(eslint@10.14.0)
       eslint-plugin-unicorn: 78.0.0(eslint@10.14.0)(typescript@6.0.3)
@@ -2842,14 +2842,14 @@ snapshots:
       - supports-color
       - typescript
 
-  '@langri-sha/lint-staged@0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.0)':
+  '@langri-sha/lint-staged@0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.1)':
     dependencies:
       lint-staged: 17.6.0
     optionalDependencies:
       eslint: 10.14.0
-      prettier: 3.10.0
+      prettier: 3.10.1
 
-  '@langri-sha/projen-project@0.54.0(@babel/core@7.29.7)(@langri-sha/eslint-config@0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.0)(typescript@6.0.3))(@langri-sha/lint-staged@0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.0))(beachball@2.66.0(typescript@6.0.3))(constructs@10.8.1)(eslint@10.14.0)(husky@9.1.7)(lint-staged@17.6.0)(prettier@3.10.0)(projen@0.104.1(constructs@10.8.1))(skills@1.7.6)(tsx@4.23.15)(typescript@6.0.3)':
+  '@langri-sha/projen-project@0.54.0(@babel/core@7.29.7)(@langri-sha/eslint-config@0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.1)(typescript@6.0.3))(@langri-sha/lint-staged@0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.1))(beachball@2.66.0(typescript@6.0.3))(constructs@10.8.1)(eslint@10.14.0)(husky@9.1.7)(lint-staged@17.6.0)(prettier@3.10.1)(projen@0.104.1(constructs@10.8.1))(skills@1.7.6)(tsx@4.23.15)(typescript@6.0.3)':
     dependencies:
       constructs: 10.8.1
       hosted-git-info: 10.1.1
@@ -2884,13 +2884,13 @@ snapshots:
       semver: 7.8.6
     optionalDependencies:
       '@babel/core': 7.29.7
-      '@langri-sha/eslint-config': 0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.0)(typescript@6.0.3)
-      '@langri-sha/lint-staged': 0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.0)
+      '@langri-sha/eslint-config': 0.13.0(@typescript-eslint/utils@8.72.1(eslint@10.14.0)(typescript@6.0.3))(eslint@10.14.0)(prettier@3.10.1)(typescript@6.0.3)
+      '@langri-sha/lint-staged': 0.9.11(eslint@10.14.0)(lint-staged@17.6.0)(prettier@3.10.1)
       beachball: 2.66.0(typescript@6.0.3)
       eslint: 10.14.0
       husky: 9.1.7
       lint-staged: 17.6.0
-      prettier: 3.10.0
+      prettier: 3.10.1
       skills: 1.7.6
       tsx: 4.23.15
       typescript: 6.0.3
@@ -3567,10 +3567,10 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  eslint-plugin-prettier@5.5.7(eslint-config-prettier@10.1.8(eslint@10.14.0))(eslint@10.14.0)(prettier@3.10.0):
+  eslint-plugin-prettier@5.5.7(eslint-config-prettier@10.1.8(eslint@10.14.0))(eslint@10.14.0)(prettier@3.10.1):
     dependencies:
       eslint: 10.14.0
-      prettier: 3.10.0
+      prettier: 3.10.1
       prettier-linter-helpers: 1.0.1
       synckit: 0.12.3
     optionalDependencies:
@@ -4419,9 +4419,9 @@ snapshots:
 
   prettier-plugin-ini@1.3.0:
     dependencies:
-      prettier: 3.10.0
+      prettier: 3.10.1
 
-  prettier@3.10.0: {}
+  prettier@3.10.1: {}
 
   projen-babel-config@0.5.23(constructs@10.8.1)(projen@0.104.1(constructs@10.8.1)):
     dependencies:
